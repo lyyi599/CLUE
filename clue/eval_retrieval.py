@@ -1,6 +1,3 @@
-# Copyright (c) Winci.
-# Licensed under the Apache License, Version 2.0 (the "License");
-
 """
 Mostly copy-paste from DINO.
 https://github.com/facebookresearch/dino/blob/main/eval_knn.py
